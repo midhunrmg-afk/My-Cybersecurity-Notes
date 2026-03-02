@@ -75,7 +75,7 @@ file permission rwx -read,write and execute
 9.uname -Shows operating system details.
 10.locate-Searches files quickly.
 11.touch-Creates new files instantly. cant edit
-12.cat-read file its shows in terminal .Concatenate
+12.cat-read file its shows in terminal .Concatenate   cat > for overwrite and >> for append enter then type new content 
 13.cat file1 file2 > new_file command for merge files
 14.clear-clean terminal outputs
 15.ps- show active processes
@@ -84,6 +84,63 @@ file permission rwx -read,write and execute
 18.whereis-show binary path
 19.man-Explains options and usage.manual
 20.nano-create file and edit 
+alternative nano 
+1.less filename  will show page by page
+2.tail -10 filename will show footer 10 lines of code
+3.head -10 filename this will show header 10 lines of code
+
+4.echo "this is a new line" >>filename.txt
+5.find /home/midhun -name phase
+6.To search from your current directory:
+bash
+find . -name "filename.txt"
+7.To search the entire system:
+bash
+find / -name "filename.txt" 2>/dev/null
+8.To perform a case-insensitive search:
+bash
+find / -iname "filename.txt" 2>/dev/null
+9.─# locate newjust.txt                                                                                                                                                      if not showing then  sudo updatedb
+10.Who (u, g, o, a) 	Operator (+, -, =)	Permissions (r, w, x)
+u: user (owner)    	+: add permission	              r: read
+g: group           	-: remove permission	           w: write
+o: others            	=: set exact permission       	x: execute
+a: all (u, g, o)
+Numeric Values for Permissions 
+Each permission type has a numerical value: 
+Read (r): 4
+Write (w): 2
+Execute (x): 1
+No permission (-): 0
+chmod 477 newjust.txt
+
+10.to check permission ls -l
+11. ps aux show all process files include system file
+12. -uname -a system onfo
+13.ip a alternative for ifconfig
+14.rmdir -r force delete
+15.whoami 
+
+**todo locate find whereis difference?**
+**todo linux hierarchy**
+
+Windows command
+1.notepad filename
+2.type joshy.txt to open file
+3.rmdir /s force delete if inside folder
+4.tasklist task manager
+5.taskkill \IM Chrome.exe /f
+6.cls
+7.curl google.com or parrot.live show website information
+
+
+note-tails os live boot only
+Ahmia website
+openclaw ai
+picoCTF - CMU Cybersecurity Competition  try this website
+
+
+
 
 
 
