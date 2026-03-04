@@ -138,6 +138,8 @@ note-tails os live boot only
 Ahmia website
 openclaw ai
 picoCTF - CMU Cybersecurity Competition  try this website
+Zphisher
+Camphish
 
 
 
