@@ -141,6 +141,117 @@ picoCTF - CMU Cybersecurity Competition  try this website
 Zphisher
 Camphish
 
+**Note todo osi explanation**
+packets and frame 
+
+time to live
+checksum
+source address
+destinaltiona address
+**learn osi nd tcp ip very well**
+
+learn protocol and port number
+
+nat and port forwarding
+
+oswp
+firewall stateless and stateful dpa learn
+
+Bot net infected computer learn for ddos attack
+ARP
+rip ospf router protocol
+hop count
+nptl  
+
+nslookup -type=A google.com get only ipv4 only
+nslookup -type=Aaaa google.com get only ipv only
+nslookup -type=mx google.com get to get private domain mail server details
+smtp and pop
+nslookup -type=txt google.com 
+arbitary code 
+nslookup -type=ptr ip address
+backdoor malcious software
+ recon-ng
+ ctf on april 17defcon  
+
+
+**reconnaisance tools**
+**todo some modules recon-ng and other tools todo**
+
+ recon-ng
+ nslookup is older and dig is newer
+ dnsenum code 
+
+
+ **todo records like a, cname, other **
+ 
+ Creates a new workspace
+ [recon-ng][default] > workspaces create Hacker
+[recon-ng][Hacker] > marketplace search hacker
+
+[recon-ng][Hacker] > marketplace install recon/domains-hosts/hackertarget 
+[*] Module installed: recon/domains-hosts/hackertarget
+[*] Reloading modules...
+[recon-ng][Hacker] > ls
+[!] Invalid command: ls.
+[recon-ng][Hacker] > modules
+Interfaces with installed modules
+
+Usage: modules <load|reload|search> [...]
+
+[recon-ng][Hacker] > modules load econ/domains-hosts/hackertarget 
+[recon-ng][Hacker][hackertarget] > 
+modules search to 
+[recon-ng][Hacker][hackertarget] > modules search
+
+  Recon
+  -----
+    recon/domains-hosts/hackertarget
+
+[recon-ng][Hacker][hackertarget] > modules load recon/domains-hosts/hackertarget
+[recon-ng][Hacker][hackertarget] > 
+[recon-ng][Hacker][hackertarget] > options set source h4cker.org
+SOURCE => h4cker.org
+[recon-ng][Hacker][hackertarget] > run
+[recon-ng][Hacker][hackertarget] > back
+[recon-ng][Hacker] > 
+
+netdiscover
+-----------
+netdiscover -r 192.168.0.1/24
+
+arp -a not perfect
+
+flink mobile app
+
+
+dnsrecon -d example.com -D /usr/share/wordlists/subdomains.txt -t brt
+
+**todo  A
+
+AAAA
+
+CNAME
+
+MX
+
+NS
+
+TXT
+
+PTR**  and 
+
+theharvester -d example.com -b google     explanation
+whois google.com and whoislookup in website with gui
+
+
+
+
+
+ 
+
+
+
 
 
 
