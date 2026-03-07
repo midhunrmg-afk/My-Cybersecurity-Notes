@@ -243,6 +243,13 @@ PTR**  and
 
 theharvester -d example.com -b google     explanation
 whois google.com and whoislookup in website with gui
+ whois -h whois.arin.net 8.8.8.8
+1.netcraft website to find all details
+2.osintframework.com
+3.whatsmyname.com
+haveibeenpwned.com to check we hacked
+cladai
+
 
 
 
