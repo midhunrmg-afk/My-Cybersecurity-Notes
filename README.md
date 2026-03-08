@@ -258,7 +258,10 @@ lbd to check load balancer
 perl ldb.pl google.com
 **try all ldb command**
 nmap same result like angryip scanner
+
 systemctl enable ssh enable ssh
+sudo systemctl start ssh
+
 **note-true positive,true negative,false positive,false negative**
 readnotify to check mail received to client 
 **hsts alternative for http**
