@@ -257,6 +257,7 @@ nikto command (cve org)
 lbd to check load balancer
 perl ldb.pl google.com
 **try all ldb command**
+**todo metaspoilatable 2 and burbsuite insatll**
 nmap same result like angryip scanner
 
 systemctl enable ssh enable ssh
@@ -310,6 +311,8 @@ cd foldername
 
 
 python3 -m http.server 80
+
+
 
 
 
