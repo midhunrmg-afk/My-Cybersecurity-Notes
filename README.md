@@ -396,7 +396,7 @@ apt dvwa to install metaspoliton linux
 nc command (netcat on kali)
 
 beef -xss
-
+sudo apt install zaproxy
      
 
 
