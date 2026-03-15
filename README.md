@@ -325,7 +325,68 @@ Enter the Kali password (default is usually kali).
 
 
 
+cryptography
 
+
+semmetric
+
+
+asysemmatric
+rsa 
+ecc
+
+┌──(midhun㉿kali)-[~]
+└─$ ipcalc 10.250.213.96
+Address:   10.250.213.96        00001010.11111010.11010101. 01100000
+Netmask:   255.255.255.0 = 24   11111111.11111111.11111111. 00000000
+Wildcard:  0.0.0.255            00000000.00000000.00000000. 11111111
+=>
+Network:   10.250.213.0/24      00001010.11111010.11010101. 00000000
+HostMin:   10.250.213.1         00001010.11111010.11010101. 00000001
+HostMax:   10.250.213.254       00001010.11111010.11010101. 11111110
+Broadcast: 10.250.213.255       00001010.11111010.11010101. 11111111
+Hosts/Net: 254                   Class A, Private Internet
+
+                                                             
+binary conversion 
+240.172.1.90
+11110000.10101100.00000001.01011010
+
+10.250.213.96
+00001010.11111010.11010101.01100000
+
+
+128         64           32          16            8         4           2            1
+
+XOR
+
+data 8
+key 6
+
+1000
+0110
+
+XOR1110  = 14
+
+1110
+0110
+
+XOR decrypt 0110 =6
+
+hydra johnripper hashcat ->password crack
+netacad ethicalhacking course free
+scapy adv networking
+
+
+4
+     
+
+
+
+
+
+
+   
 
 
 
