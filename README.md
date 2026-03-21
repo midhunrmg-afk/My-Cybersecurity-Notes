@@ -401,6 +401,13 @@ sudo apt install zaproxy
 
 gobuster for find directory on website
 cve.org mitre.com website and 
+
+bypass suid
+find / -perm -4000 2>/dev/null
+/opt$ service --status-all | grep "+"
+apparmour
+chmod +s mean suid root access
+service --status-all |grep "*"
      
 
 
