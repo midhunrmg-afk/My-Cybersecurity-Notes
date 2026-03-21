@@ -397,6 +397,10 @@ nc command (netcat on kali)
 
 beef -xss
 sudo apt install zaproxy
+
+
+gobuster for find directory on website
+cve.org mitre.com website and 
      
 
 
