@@ -408,6 +408,10 @@ find / -perm -4000 2>/dev/null
 apparmour
 chmod +s mean suid root access
 service --status-all |grep "*"
+
+bash or ./ both can use to run sh or some or=ther file
+nbtstat windows for enumeration and for kali nmblookup
+
      
 
 
