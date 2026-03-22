@@ -412,6 +412,13 @@ service --status-all |grep "*"
 bash or ./ both can use to run sh or some or=ther file
 nbtstat windows for enumeration and for kali nmblookup
 
+https://www.cve.org/
+windows sandbox try 
+reverse lookup from ip to find domain
+
+ollama.ai
+
+
      
 
 
