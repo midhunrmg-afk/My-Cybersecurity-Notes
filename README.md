@@ -418,8 +418,33 @@ reverse lookup from ip to find domain
 
 ollama.ai
 
+NVD,cve,exploitdb website 
 
-     
+from meterpreter use shell command to use linux command 
+2>/dev/null to skip permission in linux
+
+stegnography
+-------
+steghide  , zsteg
+ltrace
+strace
+
+exiftool
+file
+strings
+ghidra reverse engineering 
+binwalk
+wafwoof -v skilllogic.com to check firewall
+
+
+**zawp, docker, postman ,strombreaker tools check** 
+
+
+
+
+
+
+
 
 
 
