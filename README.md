@@ -440,7 +440,7 @@ wafwoof -v skilllogic.com to check firewall
 **zawp, docker, postman ,strombreaker tools check** 
 
 overthewire.com
-
+promt sloth extension ai
 
 
 
