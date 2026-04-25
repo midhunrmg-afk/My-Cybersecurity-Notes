@@ -444,6 +444,8 @@ promt sloth extension ai
 
 web scraper extension
 email extractor
+worm gpt get from darkweb for telegram for generating virus and keylogger and all ilegal
+
 
 
 
