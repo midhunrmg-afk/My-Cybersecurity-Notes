@@ -442,7 +442,8 @@ wafwoof -v skilllogic.com to check firewall
 overthewire.com
 promt sloth extension ai
 
-
+web scraper extension
+email extractor
 
 
 
