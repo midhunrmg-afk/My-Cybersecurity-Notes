@@ -446,6 +446,25 @@ web scraper extension
 email extractor
 worm gpt get from darkweb for telegram for generating virus and keylogger and all ilegal
 
+Sanjog singh class
+--------------------
+
+https://playit.gg/login/create
+https://localxpose.io/signup
+https://ngrok.com/
+https://download.cnet.com/quickstego/3000-2092_4-75593140.html
+https://github.com/doyensec/Session-Hijacking-Visual-Exploitation
+https://github.com/Screetsec/TheFatRat
+https://github.com/mobsf/mobile-security-framework-mobsf
+https://receive-smss.com/sms/917428730894/#gsc.tab=0
+https://github.com/sammwyy/MikuMikuBeam
+https://sourceforge.net/projects/high-orbit-ion-cannon/files/latest/download
+https://sourceforge.net/projects/loic/files/latest/download
+git clone git@github.com:doyensec/Session-Hijacking-Visual-Exploitation.git
+https://github.com/doyensec/Session-Hijacking-Visual-Exploitation
+https://sourceforge.net/projects/bhavesh-virus-maker/
+https://sourceforge.net/projects/loic/
+
 
 
 
