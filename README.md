@@ -466,6 +466,22 @@ https://sourceforge.net/projects/bhavesh-virus-maker/
 https://sourceforge.net/projects/loic/
 https://sourceforge.net/projects/high-orbit-ion-cannon/files/latest/download
 
+2nd day class
+https://www.bugcrowd.com/
+https://www.hackerone.com/contact
+https://www.openvas.org/
+https://filecr.com/windows/netsparker/
+https://attack.mitre.org/
+https://nvd.nist.gov/vuln/detail/CVE-2011-2523
+https://osv.dev/
+https://www.tenable.com/products/nessus
+https://github.com/aliasrobotics/CAI
+https://www.zaproxy.org/download/
+https://blackhatrussia.com/
+https://adoptium.net/installation
+
+
+
 
 
 
